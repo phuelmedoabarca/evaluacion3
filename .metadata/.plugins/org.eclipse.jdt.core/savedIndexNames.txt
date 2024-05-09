@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\phuel\Desktop\Iplacex\Bimestre 10\Integracion continua\Semana 2\Proyecto\HolaMundo\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
